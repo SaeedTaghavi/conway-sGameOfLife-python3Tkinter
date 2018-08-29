@@ -10,7 +10,7 @@ user@host:~$ python3	conwayGameOfLife.py
 ```
 </span>
 
-```console
+```bash
 user@host:~$ python3	conwayGameOfLife.py
 ```
 
