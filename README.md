@@ -3,7 +3,7 @@
 **Notice that the code works in python3**
 
 you can simply run this like 
-```bash
+```sh
 user@host:~$ python3	conwayGameOfLife.py
 ```
 
