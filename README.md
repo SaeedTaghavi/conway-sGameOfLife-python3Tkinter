@@ -4,13 +4,7 @@
 
 you can simply run this like 
 
-<span style="backgroundcolor:black">
 ```console
-user@host:~$ python3	conwayGameOfLife.py
-```
-</span>
-
-```bash
 user@host:~$ python3	conwayGameOfLife.py
 ```
 
